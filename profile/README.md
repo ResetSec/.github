@@ -15,7 +15,7 @@ We are a CTF Team created by some nerds on Reddit that hopped into a discord tog
 
 Here will be our CTF Writeups, Scripts, Codebases, and whatever else makes sense to put here. 
 
-#### If you are a interested in becoming a member of this GH Org, please mention it in the the discord. 
+#### If you are a interested in becoming a member of the team or a member of this GH Org, please join us at and mention it in the the discord. 
 [The Discord](https://discord.gg/TfAH9zQz)
 
 In the discord you will see collaboration, upcoming events, links, and general schenanigans. 
