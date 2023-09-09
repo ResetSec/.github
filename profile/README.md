@@ -20,6 +20,7 @@ For general, non-event specific information check out the [wiki](https://github.
 ### Index (so far)
 - [The Wiki](https://github.com/ResetSec/.github/wiki)
 - [The Urmia CTF 2023](https://github.com/ResetSec/UrmiaCTF)
+- [PatriotCTF 20203](https://github.com/ResetSec/PatriotCTF-2023)
 # 
 
 ### If you are a interested in becoming a member of the team or this GH Org, please join us in the the discord. 
