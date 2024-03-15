@@ -17,11 +17,14 @@ Here will be our CTF Writeups, Scripts, Codebases, and whatever else makes sense
 
 For general, non-event specific information check out the [wiki](https://github.com/ResetSec/.github/wiki). If you are member of the team, miscellaneous contributions and general research should go here! 
 
+ps. we are a bit lazy and sometimes we dont do writeups 😛
+pps. the wiki is still TODO 😅
 ### Index (so far)
 - [The Wiki](https://github.com/ResetSec/.github/wiki)
 - [The Urmia CTF 2023](https://github.com/ResetSec/UrmiaCTF)
-- [PatriotCTF 20203](https://github.com/ResetSec/PatriotCTF-2023)
+- [PatriotCTF 2023](https://github.com/ResetSec/PatriotCTF-2023)
+- [Cyber Apocalypse 2024 - Hacker Royale](https://github.com/ResetSec/HTB-Cyber-Apocalypse-2024)
 # 
 
 ### If you are a interested in becoming a member of the team or this GH Org, please join us in the the discord. 
-[The Discord](https://discord.gg/TfAH9zQz)
+[The Discord](https://discord.gg/wDpYQfEGwG)
