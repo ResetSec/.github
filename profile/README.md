@@ -18,7 +18,9 @@ Here will be our CTF Writeups, Scripts, Codebases, and whatever else makes sense
 For general, non-event specific information check out the [wiki](https://github.com/ResetSec/.github/wiki). If you are member of the team, miscellaneous contributions and general research should go here! 
 
 ps. we are a bit lazy and sometimes we dont do writeups 😛
+
 pps. the wiki is still TODO 😅
+
 ### Index (so far)
 - [The Wiki](https://github.com/ResetSec/.github/wiki)
 - [The Urmia CTF 2023](https://github.com/ResetSec/UrmiaCTF)
