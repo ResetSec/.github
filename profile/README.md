@@ -26,6 +26,7 @@ pps. the wiki is still TODO 😅
 - [The Urmia CTF 2023](https://github.com/ResetSec/UrmiaCTF)
 - [PatriotCTF 2023](https://github.com/ResetSec/PatriotCTF-2023)
 - [Cyber Apocalypse 2024 - Hacker Royale](https://github.com/ResetSec/HTB-Cyber-Apocalypse-2024)
+- [AmateursCTF 2024](https://github.com/ResetSec/AmateursCTF-2024)
 # 
 
 ### If you are a interested in becoming a member of the team or this GH Org, please join us in the the discord. 
