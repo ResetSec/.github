@@ -18,10 +18,11 @@ We focus on **continuous learning, innovation, and pushing the boundaries of sec
 ---
 
 ## Links
-- 🌐 [Website](https://resetsec.xyz/)
-- 💼 [LinkedIn](https://www.linkedin.com/company/resetsec)
-- 🐦 [X / Twitter](https://twitter.com/ResetSecz)
-- 🏆 [CTFtime](https://ctftime.org/team/12345)
+- 🌐 Website: https://resetsec.xyz/
+- 💼 LinkedIn: https://www.linkedin.com/company/resetsec
+- 🐦 X / Twitter: https://twitter.com/ResetSecz
+- 🏆 CTFtime: https://ctftime.org/team/12345
+
 ---
 
 ## Contact Us
@@ -40,5 +41,5 @@ We focus on **continuous learning, innovation, and pushing the boundaries of sec
  </pre>
 
 <p align="center">
-    <em>“Securing the future, one vulnerability at a time”</em>
+    <em>“Also known as ResetSec/ResetSecz”</em>
 </p>
