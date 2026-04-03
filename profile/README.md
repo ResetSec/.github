@@ -1,30 +1,44 @@
-<!--
+<p align="center">
+    <img src="logo.webp" alt="Reset Security Logo" width="350px" />
+</p>
 
-**Here are some ideas to get you started:**
+<p align="center"><em>Founded in 2023 — driven by an insatiable curiosity and an unyielding passion for cybersecurity</em></p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-+ test
-- test
+---
 
-<pre>
+## About Us
+Reset Security is a collaborative **CTF and cybersecurity team** dedicated to:
+- Vulnerability research & exploit development  
+- Capture The Flag (CTF) competitions  
+- Security tooling & automation  
+- Knowledge sharing and community growth  
 
-░█▀▄░█▀▀░█▀▀░█▀▀░▀█▀░░░█▀▀░█▀▀░█▀▀░█░█░█▀▄░▀█▀░▀█▀░█░█
-░█▀▄░█▀▀░▀▀█░█▀▀░░█░░░░▀▀█░█▀▀░█░░░█░█░█▀▄░░█░░░█░░░█░
-░▀░▀░▀▀▀░▀▀▀░▀▀▀░░▀░░░░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░░▀░░░▀░
+We focus on **continuous learning, innovation, and pushing the boundaries of security research**.
 
-</pre>
-### Index (so far)
-- [The Wiki](https://github.com/ResetSec/.github/wiki)
-- [The Urmia CTF 2023](https://github.com/ResetSec/UrmiaCTF)
-- [PatriotCTF 2023](https://github.com/ResetSec/PatriotCTF-2023)
-- [Cyber Apocalypse 2024 - Hacker Royale](https://github.com/ResetSec/HTB-Cyber-Apocalypse-2024)
-- [AmateursCTF 2024](https://github.com/ResetSec/AmateursCTF-2024)
-# 
+---
 
-### If you are a interested in becoming a member of the team or this GH Org, please join us in the the discord. 
-[The Discord](https://discord.gg/wDpYQfEGwG)
+## Links
+- 🌐 [Website](https://resetsec.xyz/)
+- 💼 [LinkedIn](https://www.linkedin.com/company/resetsec)
+- 🐦 [X / Twitter](https://twitter.com/ResetSecz)
+- 🏆 [CTFtime](https://ctftime.org/team/12345)
+---
+
+## Contact Us
+📧 <a href="mailto:administration@resetsec.xyz">administration@resetsec.xyz</a>
+
+---
+
+<pre>                                                                                                                                  
+  ____                _     ____                       _ _         
+ |  _ \ ___  ___  ___| |_  / ___|  ___  ___ _   _ _ __(_) |_ _   _ 
+ | |_) / _ \/ __|/ _ \ __| \___ \ / _ \/ __| | | | '__| | __| | | |
+ |  _ <  __/\__ \  __/ |_   ___) |  __/ (__| |_| | |  | | |_| |_| |
+ |_| \_\___||___/\___|\__| |____/ \___|\___|\__,_|_|  |_|\__|\__, |
+                                                             |___/ 
+ 
+ </pre>
+
+<p align="center">
+    <em>“Securing the future, one vulnerability at a time”</em>
+</p>
