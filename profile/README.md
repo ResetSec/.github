@@ -2,7 +2,7 @@
     <img src="logo.webp" alt="Reset Security Logo" width="200px" />
 </p>
 
-<p align="center"><em>Founded in 2023 — driven by an insatiable curiosity and an unyielding passion for cybersecurity</em></p>
+<p align="center"><em>Founded in 2023 — Also known as ResetSec/ResetSecz</em></p>
 
 ---
 
@@ -41,5 +41,5 @@ We focus on **continuous learning, innovation, and pushing the boundaries of sec
  </pre>
 
 <p align="center">
-    <em>“Also known as ResetSec/ResetSecz”</em>
+    <em>“driven by an insatiable curiosity and an unyielding passion for cybersecurity”</em>
 </p>
