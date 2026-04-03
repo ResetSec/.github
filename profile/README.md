@@ -8,18 +8,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-
-## Welcome to Reset Security!
-
-We are a CTF Team created by some nerds on Reddit that hopped into a discord together and instantly became a big, weird, international family :P 
-
-Here will be our CTF Writeups, Scripts, Codebases, and whatever else makes sense to put here. 
-
-For general, non-event specific information check out the [wiki](https://github.com/ResetSec/.github/wiki). If you are member of the team, miscellaneous contributions and general research should go here! 
-
-ps. we are a bit lazy and sometimes we dont do writeups 😛
-
-pps. the wiki is still TODO 😅
+<p style="color: red;">123</p>
+```
+░█▀▄░█▀▀░█▀▀░█▀▀░▀█▀░░░█▀▀░█▀▀░█▀▀░█░█░█▀▄░▀█▀░▀█▀░█░█
+░█▀▄░█▀▀░▀▀█░█▀▀░░█░░░░▀▀█░█▀▀░█░░░█░█░█▀▄░░█░░░█░░░█░
+░▀░▀░▀▀▀░▀▀▀░▀▀▀░░▀░░░░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░░▀░░░▀░
+```
 
 ### Index (so far)
 - [The Wiki](https://github.com/ResetSec/.github/wiki)
