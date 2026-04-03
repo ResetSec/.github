@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="logo.webp" alt="Reset Security Logo" width="350px" />
+    <img src="logo.webp" alt="Reset Security Logo" width="200px" />
 </p>
 
 <p align="center"><em>Founded in 2023 — driven by an insatiable curiosity and an unyielding passion for cybersecurity</em></p>
