@@ -7,13 +7,15 @@
 ---
 
 ## About Us
-Reset Security is a collaborative **CTF and cybersecurity team** dedicated to:
+Reset Security is a collaborative, international **CTF and cybersecurity team**, playfully represented by the Antarctica flag 🇦🇶.
+
+We are dedicated to:
 - Vulnerability research & exploit development  
 - Capture The Flag (CTF) competitions  
 - Security tooling & automation  
 - Knowledge sharing and community growth  
 
-We focus on **continuous learning, innovation, and pushing the boundaries of security research**.
+Driven by **curiosity, innovation, and a passion for cybersecurity**, we focus on continuous learning and pushing the boundaries of security research.
 
 ---
 
